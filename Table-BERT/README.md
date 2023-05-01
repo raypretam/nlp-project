@@ -54,4 +54,4 @@ We have put our pre-trained model in code/checkpoints/, the model can reproduce 
 2. We provide the checkpoints of Table-BERT in Amazon S3 server, you can directly download it using:
 ```
   wget https://tablefact.s3-us-west-2.amazonaws.com/snapshot.zip
-```t
+```
