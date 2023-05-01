@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: table-bert
+Version: 0.1
+Summary: Learning contextual representations on textual and structured tabular data
+Home-page: UNKNOWN
+Author: Pengcheng Yin
+Author-email: pcyin@cs.cmu.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+License-File: LICENSE.md
+
+UNKNOWN
+
