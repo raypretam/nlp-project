@@ -128,8 +128,6 @@ python -m utils.generate_vertical_tabert_training_data \
 is set to `[1, 2, ..., N]` for each process.
 
 ## Model Training
-Our models are trained on a cluster of 32GB Tesla V100 GPUs. The following script demonstrates 
-training a vanilla `TaBERT(k=1)` model using a single GPU with gradient accumulation:
 ```shell script
 mkdir -p data/runs/vanilla_tabert
 
