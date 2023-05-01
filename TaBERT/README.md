@@ -1,8 +1,5 @@
 # TaBERT
 
-TaBERT could be used as a general-purpose representation learning layer for semantic parsing tasks over database tables. 
-Example applications could be found under the `examples` folder.
-
 ## Extract/Preprocess Table Corpora from CommonCrawl and Wikipedia
 
 ### Prerequisite
