@@ -1,5 +1,3 @@
-# Introduction
-
 ## Download the Dataset Split
 [Training Set](https://github.com/wenhuchen/Table-Fact-Checking/blob/master/tokenized_data/train_examples.json)|[Validation Set](https://github.com/wenhuchen/Table-Fact-Checking/blob/master/tokenized_data/val_examples.json)|[Test Set](https://github.com/wenhuchen/Table-Fact-Checking/blob/master/tokenized_data/test_examples.json): The data has beeen tokenized and lower cased. You can directly use them to train/evaluation your model.
 
