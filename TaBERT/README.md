@@ -167,3 +167,17 @@ python train.py \
     --empty-cache-freq 128
 ```
 Pretrained Model can be found [here](https://drive.google.com/drive/folders/13jzt8Q0FlTRqHfG-mwuTHOqCfsyHamh3?usp=share_link)
+
+# Reference
+
+```
+@inproceedings{yin20acl,
+    title = {Ta{BERT}: Pretraining for Joint Understanding of Textual and Tabular Data},
+    author = {Pengcheng Yin and Graham Neubig and Wen-tau Yih and Sebastian Riedel},
+    booktitle = {Annual Conference of the Association for Computational Linguistics (ACL)},
+    month = {July},
+    year = {2020}
+}
+```
+
+
