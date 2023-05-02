@@ -48,6 +48,7 @@ We have put our pre-trained model in code/checkpoints/, the model can reproduce 
   or
   python run_BERT.py --do_eval --scan horizontal --fact first --load_dir outputs_fact-first_horizontal_snapshot/save_step_12500 --eval_batch_size 16
 ```
+Pretained Model can be found [here](https://drive.google.com/drive/folders/144art6AFd9HyX005tw3v-66VZRKTyEP0?usp=share_link)
 
 ## Reference
 Please cite the paper in the following format if you use this dataset during your research.
